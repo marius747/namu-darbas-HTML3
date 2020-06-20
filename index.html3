@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+	<html lang="lt">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Omleto receptas</title>
+	</head>
+
+	<body>
+		<h1>Aštrusis keto omletas</h1>
+		<hr>
+		<p>
+			<a>
+				<figure>
+					<img src="omleto.jpg"alt="omleto nuotrauka"width="300">
+				</figure>
+			</a>
+		</p>
+		<hr>
+		<table border="1">
+			<tr>
+				<th colspan="2">Omleto receptas:</th>
+			</tr>
+			<tr>
+				<td>1.</td>
+				<td>Kiaušinius įmušame į dubenėlį, pilame šaukštą aliejaus ir šakute gerai išplakame.</td>
+			<tr>
+				<td>2.</td>
+				<td>Smulkiai supjaustome aitriąją papriką ir pomidorus.</td>
+			<tr>
+				<td>3.</td>
+				<td>Keptuvėje įkaitiname aliejų su sviestu, sudedame smulkintas daržoves, pasūdome ir kelias minutes vis pamaišydami ant nedidelės kaitros pakepame. </td>
+			<tr>
+				<td>4.</td>
+				<td>Ant apkeptų daržovių supilame kiaušinių plakinį ir šiek tiek maišydami iškepame. Ant viršaus užbarstome tarkuotus sūrius ir pakepame dar – kol sūriai išsilydo.</td>
+			<tr>
+				<td>5.</td>
+				<td>Omletą pagardiname smulkintais svogūnų laiškais, krapais ir šviežiai maltais pipirais.</td>
+		</table>
+		
+		<hr>
+		
+		<p>
+			<i>Skanaus...</i>
+		</p>
+	</body>
+</html>
